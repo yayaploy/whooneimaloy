@@ -105,7 +105,7 @@ body::before {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 Map
-
+<br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d404.8219000897732!2d99.90331554978752!3d20.194211856117168!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sth!4v1554910093601!5m2!1sja!2sth" width="900" height="675" frameborder="0" style="border:0" allowfullscreen></iframe>
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d52480.95072507568!2d99.9018871160451!3d20.191109553517084!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sth!4v1554910340673!5m2!1sja!2sth" width="900" height="675" frameborder="0" style="border:0" allowfullscreen></iframe>
