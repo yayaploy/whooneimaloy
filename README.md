@@ -107,8 +107,7 @@ body::before {
 Map
 <br>
 <iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d3223.6326995895047!2d99.90291207190408!3d20.19486840296444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e0!4m3!3m2!1d20.194487!2d99.9033831!4m3!3m2!1d20.194192299999997!2d99.903494!5e0!3m2!1sja!2sth!4v1554910636509!5m2!1sja!2sth" width="900" height="675" frameborder="0" style="border:0" allowfullscreen></iframe>
-<br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m24!1m12!1m3!1d281763.7435991334!2d99.78961539598257!3d20.141958852435767!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m9!3e0!4m3!3m2!1d20.194487!2d99.9033831!4m3!3m2!1d20.194192299999997!2d99.903494!5e0!3m2!1sja!2sth!4v1554910917565!5m2!1sja!2sth" width="900" height="675" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 <br><br>
 <!-- フッタ -->
  <footer><span class="snow">
