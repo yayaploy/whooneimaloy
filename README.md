@@ -72,7 +72,7 @@ body::before {
 
 <div>
 <h3><span class="white">↓ 2019/04/10</span></h3>
-<a href="20190410_001.JPG" data-lightbox="abc"><img src="20190410_001.JPG" alt="サンプル画像" width="800" /></a>
+<a href="20190410_001.JPG" data-lightbox="abc"><img src="20190410_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190410_002.JPG" data-lightbox="abc"><img src="20190410_002.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_003.JPG" data-lightbox="abc"><img src="20190410_003.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_004.JPG" data-lightbox="abc"><img src="20190410_004.JPG" alt="サンプル画像" width="200" /></a>
@@ -81,7 +81,7 @@ body::before {
 <a href="20190410_007.JPG" data-lightbox="abc"><img src="20190410_007.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_008.JPG" data-lightbox="abc"><img src="20190410_008.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_009.JPG" data-lightbox="abc"><img src="20190410_009.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190410_021.JPG" data-lightbox="abc"><img src="20190410_021.JPG" alt="サンプル画像" width="600" /></a>
+<a href="20190410_021.JPG" data-lightbox="abc"><img src="20190410_021.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20190410_010.JPG" data-lightbox="abc"><img src="20190410_010.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_011.JPG" data-lightbox="abc"><img src="20190410_011.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_012.JPG" data-lightbox="abc"><img src="20190410_012.JPG" alt="サンプル画像" width="200" /></a>
@@ -93,7 +93,7 @@ body::before {
 <a href="20190410_018.JPG" data-lightbox="abc"><img src="20190410_018.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_019.JPG" data-lightbox="abc"><img src="20190410_019.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_020.JPG" data-lightbox="abc"><img src="20190410_020.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190410_021.JPG" data-lightbox="abc"><img src="20190410_021.JPG" alt="サンプル画像" width="200" /></a>
+
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
