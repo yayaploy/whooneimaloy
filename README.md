@@ -68,7 +68,7 @@ body::before {
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/07@suphattraland!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
-<p align="left"> <img src="QR_suphattraland.png" alt="アクセス用QRコード" width="100"> ← アクセス用QRコード</p>
+<p align="left"> <img src="QR_whooneimaloy.png" alt="QR_code" width="100"> ← QR_code</p>
 
 <div>
 <h3><span class="white">↓ 2019/04/10</span></h3>
@@ -105,8 +105,7 @@ body::before {
 
 Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.6781526844334!2d101.22849661526335!3d12.799391090968987!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3102e460b5128d8f%3A0x1d03d84f926bc760!2sSuphattra+Land!5e0!3m2!1sja!2sth!4v1554700408089!5m2!1sja!2sth" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6749.551409725878!2d99.90368987001816!3d20.19446459486639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sth!4v1554882432460!5m2!1sja!2sth" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 <!-- フッタ -->
