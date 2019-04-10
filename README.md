@@ -63,16 +63,16 @@ body::before {
 <!--
 <body onload="alert('ゴーさん、お疲れ様でした。またやりましょう！')" onunload="alert('再会の時まで、元気でお過ごしくださいませ〜(^o^)/')">
 -->
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<span class="blue"><p align="right">@suphattraland</p></span>
-<h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/07@suphattraland!!!</marquee></span></h1>
+
+<span class="blue"><p align="right">ร้านอิ่มอร่อย</p></span>
+<h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/10@ร้านอิ่มอร่อย!!!</marquee></span></h1>
 <p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
 
 <p align="left"> <img src="QR_whooneimaloy.png" alt="QR_code" width="100"> ← QR_code</p>
 
 <div>
 <h3><span class="white">↓ 2019/04/10</span></h3>
-<a href="20190410_001.JPG" data-lightbox="abc"><img src="20190410_001.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190410_001.JPG" data-lightbox="abc"><img src="20190410_001.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20190410_002.JPG" data-lightbox="abc"><img src="20190410_002.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_003.JPG" data-lightbox="abc"><img src="20190410_003.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_004.JPG" data-lightbox="abc"><img src="20190410_004.JPG" alt="サンプル画像" width="200" /></a>
@@ -81,6 +81,7 @@ body::before {
 <a href="20190410_007.JPG" data-lightbox="abc"><img src="20190410_007.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_008.JPG" data-lightbox="abc"><img src="20190410_008.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_009.JPG" data-lightbox="abc"><img src="20190410_009.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190410_021.JPG" data-lightbox="abc"><img src="20190410_021.JPG" alt="サンプル画像" width="600" /></a>
 <a href="20190410_010.JPG" data-lightbox="abc"><img src="20190410_010.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_011.JPG" data-lightbox="abc"><img src="20190410_011.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_012.JPG" data-lightbox="abc"><img src="20190410_012.JPG" alt="サンプル画像" width="200" /></a>
