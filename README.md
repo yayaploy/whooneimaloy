@@ -111,5 +111,5 @@ Map
 
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2019/04/10 S.Hada
+ Copyright 2019/04/10 Mibu.Torokoid
 </span></footer>
