@@ -66,7 +66,7 @@ body::before {
 
 <span class="blue"><p align="right">ร้านอิ่มอร่อย</p></span>
 <h1><span class="yellow"><marquee behavior="lrft">!!! 2562/04/10@ร้านอิ่มอร่อย!!!</marquee></span></h1>
-<p align="right"><marquee direction="right" scrollamount="20" width="30%">(^_^)/~hada</marquee></p>
+<p align="right"><marquee direction="right" scrollamount="20" width="30%">TEL:087-177-8052</marquee></p>
 
 <p align="left"> <img src="QR_whooneimaloy.png" alt="QR_code" width="100"> ← QR_code</p>
 
