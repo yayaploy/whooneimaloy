@@ -80,7 +80,7 @@ body::before {
 <a href="20190410_006.JPG" data-lightbox="abc"><img src="20190410_006.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_007.JPG" data-lightbox="abc"><img src="20190410_007.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_008.JPG" data-lightbox="abc"><img src="20190410_008.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190410_009.JPG" data-lightbox="abc"><img src="20190410_009.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190410_009.JPG" data-lightbox="abc"><img src="20190410_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190410_021.JPG" data-lightbox="abc"><img src="20190410_021.JPG" alt="サンプル画像" width="800" /></a>
 <a href="20190410_010.JPG" data-lightbox="abc"><img src="20190410_010.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_011.JPG" data-lightbox="abc"><img src="20190410_011.JPG" alt="サンプル画像" width="200" /></a>
