@@ -106,7 +106,7 @@ body::before {
 
 Map
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6749.551409725878!2d99.90368987001816!3d20.19446459486639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sth!4v1554882432460!5m2!1sja!2sth" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d6749.551409725878!2d99.90368987001816!3d20.19446459486639!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sja!2sth!4v1554882432460!5m2!1sja!2sth" width="900" height="675" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 <!-- フッタ -->
