@@ -51,7 +51,7 @@ body::before {
   z-index:-1;
   width:100%;
   height:100vh;
-  background:url(https://yayaploy.github.io/whooneimaloy/20190410_001.JPG) center/cover no-repeat; /*fixedをトル！*/
+  background:url(https://yayaploy.github.io/whooneimaloy/20190412_001.JPG) center/cover no-repeat; /*fixedをトル！*/
   -webkit-background-size:cover;/*Android4*/
   }
   
@@ -73,13 +73,13 @@ body::before {
 <div>
 <h3><span class="white">↓ 2019/04/10</span></h3>
 <a href="20190410_007.JPG" data-lightbox="abc"><img src="20190410_007.JPG" alt="サンプル画像" width="900" /></a>
-<a href="20190410_001.JPG" data-lightbox="abc"><img src="20190410_001.JPG" alt="サンプル画像" width="200" /></a>
+<a href="20190410_002.JPG" data-lightbox="abc"><img src="20190410_002.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_003.JPG" data-lightbox="abc"><img src="20190410_003.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_004.JPG" data-lightbox="abc"><img src="20190410_004.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_005.JPG" data-lightbox="abc"><img src="20190410_005.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_006.JPG" data-lightbox="abc"><img src="20190410_006.JPG" alt="サンプル画像" width="200" /></a>
 <a href="20190410_008.JPG" data-lightbox="abc"><img src="20190410_008.JPG" alt="サンプル画像" width="200" /></a>
-<a href="20190410_002.JPG" data-lightbox="abc"><img src="20190410_002.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20190410_001.JPG" data-lightbox="abc"><img src="20190410_001.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190410_009.JPG" data-lightbox="abc"><img src="20190410_009.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190410_021.JPG" data-lightbox="abc"><img src="20190410_021.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20190410_010.JPG" data-lightbox="abc"><img src="20190410_010.JPG" alt="サンプル画像" width="450" /></a>
