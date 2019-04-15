@@ -69,8 +69,8 @@ body::before {
 <p align="right"><marquee direction="right" scrollamount="5" width="90%">TEL:087-177-8052</marquee></p>
 <br><br><br><br><br>
 <p align="left"> <img src="QR_whooneimaloy.png" alt="QR_code" width="100"> ← QR_code</p>
-<p align="right"> <img src="venus1.gif" alt="venus1.gif" width="100"></p>
-<p align="left"> <img src="venus3.gif" alt="venus3.gif" width="100"></p>
+<p align="right"> <img src="venus1.gif" alt="venus1.gif" width="100">
+<img src="venus3.gif" alt="venus3.gif" width="100"></p>
 <div>
 <h3><span class="white">↓ 2019/04/10</span></h3>
 <a href="20190410_007.JPG" data-lightbox="abc"><img src="20190410_007.JPG" alt="サンプル画像" width="900" /></a>
