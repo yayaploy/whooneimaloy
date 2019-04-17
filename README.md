@@ -115,5 +115,5 @@ Map
 <br><br>
 <!-- フッタ -->
  <footer><span class="snow">
- Copyright 2019/04/10 Mibu.Torokoid
+ Copyright 2019/04/10 Torokoid.Mibu
 </span></footer>
