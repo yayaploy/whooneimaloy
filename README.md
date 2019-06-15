@@ -113,6 +113,11 @@ Map
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10045.529763952742!2d99.89762068627061!3d20.194299801008924!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30d65796a275aa6b%3A0x92caf507d01dbbea!2z4Lij4LmJ4Liy4LiZ4Lit4Li04LmI4Lih4Lit4Lij4LmI4Lit4Lii!5e0!3m2!1sja!2sjp!4v1556328117428!5m2!1sja!2sjp" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 <br><br>
+
+<script type='text/javascript' src='https://yayaploy.github.io/suphattraland/jquery.js?ver=1.12.4'></script>
+<script src="https://yayaploy.github.io/suphattraland/jquery.goup.min.js"></script>
+<script src="https://yayaploy.github.io/suphattraland/my.js"></script> 
+
 <!-- フッタ -->
  <footer><span class="snow">
  Copyright 2019/04/10 Torokoid.Mibu
